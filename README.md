@@ -16,6 +16,8 @@ O projeto foi desenvolvido em formato de notebook interativo **(Google Colab)**,
 
 Cada seção introduz um conceito teórico, seguido de uma analogia simples e de um circuito real executável em simuladores quânticos da IBM.
 
+O Notebook pode ser acessado neste repositório ou [nest link](https://colab.research.google.com/github/rayaraamaro/hackaton-qiskit-2025/blob/main/Hackaton_Qiskit.ipynb).
+
 ---
 
 ## Como os temas são abordados
