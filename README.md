@@ -121,6 +121,7 @@ Email: kisz@ibm.com
 - **Guilherme Indiciate**
 *AI Engineer Intern* na equipe de **Client Engineering – Ecosystem** da IBM.
 Responsável pelo desenvolvimento de agentes de IA, microserviços e aplicações baseadas em modelos generativos, apoiando parceiros na integração dessas soluções em seus próprios sistemas.
+
 Email: guilherme.indiciate@ibm.com
 
 - **Rayara Amaro Figueiredo**
