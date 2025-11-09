@@ -12,7 +12,7 @@ A proposta é unir educação e aplicação real, mostrando como os princípios 
 
 ## Estrutura do Projeto
 
-O projeto foi desenvolvido em formato de notebook interativo (Google Colab), onde cada etapa é explicada de forma didática e acompanhada por exemplos práticos em Qiskit.
+O projeto foi desenvolvido em formato de notebook interativo **(Google Colab)**, onde cada etapa é explicada de forma didática e acompanhada por exemplos práticos em Qiskit.
 
 Cada seção introduz um conceito teórico, seguido de uma analogia simples e de um circuito real executável em simuladores quânticos da IBM.
 
