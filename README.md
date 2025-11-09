@@ -76,25 +76,13 @@ E se alguém tentar copiar ou interceptar a chave, o sistema detecta automaticam
 
 ---
 
-### Aplicando isso em pagamentos seguros
-
-Depois de entender a base, aplicamos as chaves quânticas em uma simulação de transferência segura de informação, parecida com um sistema de pagamento quântico.
-
-### A lógica é simples:
-
-- A chave que autentica a operação vem de qubits entrelaçados.
-- Se alguém interceptar, o estado dos qubits muda e a tentativa é detectada.
-- Nenhum dado sensível é enviado diretamente, apenas informações de controle que garantem a integridade da transação.
-- Funciona como transferir um ativo digital, mas com segurança garantida pela física, sem risco de clonagem, roubo ou falsificação.
-
----
 
 ## Objetivos Educacionais
 
 - Explicar os fundamentos da computação e criptografia quântica de forma simples e acessível.
 - Mostrar na prática como Qiskit é usado para criar e simular circuitos quânticos reais.
 - Demonstrar o entrelaçamento e a geração de chaves quânticas de maneira visual e intuitiva.
-- Fazer um paralelo com aplicações do mundo real, especialmente em segurança da informação, autenticação e sistemas financeiros.
+- Fazer um paralelo com aplicações do mundo real, especialmente em segurança da informação e autenticação.
 
 ---
 
@@ -110,10 +98,7 @@ Depois de entender a base, aplicamos as chaves quânticas em uma simulação de 
 ## Conclusão
 
 Nosso projeto mostra que as chaves quânticas representam um dos primeiros passos concretos rumo à segurança digital absoluta.
-Ao compreender suas bases físicas e aplicá-las em experimentos simulados, percebemos que essa tecnologia pode ser o futuro da comunicação segura, criptografia e autenticação de transações.
-
-> Do laboratório ao sistema financeiro,
-> o mesmo princípio que cria uma chave quântica pode, um dia, proteger toda uma rede de confiança.
+Ao compreender suas bases físicas e aplicá-las em experimentos simulados, percebemos que essa tecnologia pode ser o futuro da comunicação segura e criptografia.
 
 ---
 
