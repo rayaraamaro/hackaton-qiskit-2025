@@ -124,21 +124,24 @@ Nosso grupo é formado por profissionais e estagiários que atuam em diferentes 
 - **Alberto Rubinho Peruchi**
 *Platform Engineer Intern* na equipe de **Client Engineering – Ecosystem** da IBM.
 Atua na construção e integração de produtos e plataformas escaláveis, com foco em automação, AI, cloud e arquitetura de infraestrutura.
-albertoperuchi@ibm.com
+
+Email: albertoperuchi@ibm.com
 
 - **Giovani Kisz**
 *Solution Architect* no **IBM Innovation Studio**.
 Especialista em design de soluções inovadoras e arquitetura corporativa, trazendo a visão prática de como tecnologias emergentes podem ser aplicadas em ambientes empresariais reais.
-kisz@ibm.com
+
+Email: kisz@ibm.com
 
 - **Guilherme Indiciate**
 *AI Engineer Intern* na equipe de **Client Engineering – Ecosystem** da IBM.
 Responsável pelo desenvolvimento de agentes de IA, microserviços e aplicações baseadas em modelos generativos, apoiando parceiros na integração dessas soluções em seus próprios sistemas.
-guilherme.indiciate@ibm.com
+Email: guilherme.indiciate@ibm.com
 
 - **Rayara Amaro Figueiredo**
 *AI Engineer Intern* na equipe de **Client Engineering – Ecosystem** da IBM.
 Responsável pelo desenvolvimento de agentes de IA, microserviços e aplicações baseadas em modelos generativos, apoiando parceiros na integração dessas soluções em seus próprios sistemas.
-rayaraamaro@ibm.com
+
+Email: rayaraamaro@ibm.com
 
 ---
